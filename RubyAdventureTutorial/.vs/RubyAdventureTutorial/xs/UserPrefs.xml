@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{BCA1D909-0A24-A480-B6C5-0A854C03FADA}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealthBehavior.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemyController.cs">
     <Files>
-      <File FileName="Assets/Scripts/RubyController.cs" Line="25" Column="1" />
-      <File FileName="Assets/Scripts/HealthBehavior.cs" Line="5" Column="28" />
+      <File FileName="Assets/Scripts/RubyController.cs" Line="15" Column="40" />
+      <File FileName="Assets/Scripts/HealthBehavior.cs" Line="17" Column="2" />
+      <File FileName="Assets/Scripts/DamageBehavior.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="7" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +12,7 @@
           <Node name="RubyAdventureTutorial" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="HealthBehavior.cs" selected="True" />
+                <Node name="EnemyController.cs" selected="True" />
               </Node>
             </Node>
           </Node>
